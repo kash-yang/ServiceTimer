@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceTimer</string>
+    <string name="channel_name">Countdown</string>
+    <string name="channel_description">showing the remain time of the timer.</string>
+</resources>
