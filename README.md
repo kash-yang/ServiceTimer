@@ -1,2 +1,2 @@
 # ServiceTimer
-This is a Timer implemented with Service and Compose UI
+This is a Timer implemented with `Service` and `Compose UI`
